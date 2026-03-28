@@ -1,0 +1,3 @@
+[submodule "vendor/ryugraph"]
+	path = vendor/ryugraph
+	url = https://github.com/predictable-labs/ryugraph.git
